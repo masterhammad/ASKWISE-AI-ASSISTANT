@@ -1,0 +1,17 @@
+﻿Month,Region,Product,Units Sold,Revenue
+2026-01,North,Starter,120,6000
+2026-01,South,Starter,95,4750
+2026-01,North,Pro,52,10400
+2026-01,South,Pro,60,12000
+2026-02,North,Starter,110,5500
+2026-02,South,Starter,105,5250
+2026-02,North,Pro,65,13000
+2026-02,South,Pro,54,10800
+2026-03,North,Starter,90,4500
+2026-03,South,Starter,125,6250
+2026-03,North,Pro,72,14400
+2026-03,South,Pro,70,14000
+2026-04,North,Starter,115,5750
+2026-04,South,Starter,140,7000
+2026-04,North,Pro,80,16000
+2026-04,South,Pro,76,15200
